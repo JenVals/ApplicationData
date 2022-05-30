@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'jvelez'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF23855270B3470290BFC17A084F527C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_75D457A057D140988F506ABA6EB80001 }}
           package: .
